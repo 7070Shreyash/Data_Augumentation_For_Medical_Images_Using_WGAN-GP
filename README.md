@@ -2,6 +2,12 @@
 
 This project focuses on data augmentation for medical imaging using **Deep Convolutional Wasserstein GAN with Gradient Penalty (WGAN-GP)**. The dataset used is the **Chest X-Ray Pneumonia Dataset** sourced from [Kaggle](https://www.kaggle.com).
 
+## Dataset Link 
+[Click Here](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia).
+
+## Kaggle Notebook Link 
+[Click Here](https://www.kaggle.com/code/shreyashacharya/data-augumentation-chest-x-ray-images-pneumonia)
+
 ## Key Features
 
 - **Dataset**: Chest X-Ray images categorized into **Normal** and **Pneumonia** classes.
