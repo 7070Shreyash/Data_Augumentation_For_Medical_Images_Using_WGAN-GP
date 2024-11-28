@@ -25,3 +25,4 @@ This project focuses on data augmentation for medical imaging using **Deep Convo
    ```bash
    git clone https://github.com/yourusername/Data_Augmentation_For_Medical_Images_Using_WGAN-GP.git
    cd Data_Augmentation_For_Medical_Images_Using_WGAN-GP/data-augumentation-chest-x-ray-images-pneumonia.ipynb
+2. Upload the file on colab/kaggle notebook and run it.
