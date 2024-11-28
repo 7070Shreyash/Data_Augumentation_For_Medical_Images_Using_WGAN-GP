@@ -23,7 +23,6 @@ This project focuses on data augmentation for medical imaging using **Deep Convo
 
 - Python 3.8+
 - TensorFlow 2.x
-- Additional dependencies listed in `requirements.txt`
 
 ## Usage
 
